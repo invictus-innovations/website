@@ -1,0 +1,19 @@
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
+*.gate.lock*
+.beads/
+.agents/
+
+HANDOFF.md
+AGENTS.md
+CLAUDE.md
+opencode.json
+opencode.jsonc
+tui.json
+tui.jsonc
+
+temp/
